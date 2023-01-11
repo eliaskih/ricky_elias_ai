@@ -4,7 +4,9 @@
   "description": "",
   "type": "module",
   "scripts": {
-    "server": "nodemon server"
+    "server": "nodemon server",
+    "build": "npm i",
+    "start": "node server.js"
   },
   "keywords": [],
   "author": "",
